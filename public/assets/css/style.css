@@ -1,0 +1,11 @@
+h1 {
+  background-image: url(https://cdn.wallpapersafari.com/96/92/CkwENn.jpg);
+  height: 15vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Mountains of Christmas', cursive;
+  font-family: 'Lobster', cursive;
+  font-size: 60px;
+  color: whitesmoke;
+}
